@@ -1,4 +1,13 @@
 ---
+- agency: City of San Rafael
+  state: CA
+  type: City
+  discretionary_threshold: $1,000
+  formal_threshold: $40,000
+  formal_url: https://www.municode.com/library/ca/san_rafael/codes/code_of_ordinances?nodeId=TIT2AD_CH2.55PUPO
+  population: 58,000
+  contributed_by: Danielle
+  updated_at: 2015-11-20
 - agency: County of Sacramento
   state: CA
   type: County
